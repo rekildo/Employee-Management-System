@@ -52,7 +52,8 @@ To run this project locally or deploy it on your server, follow these steps:
    http://localhost:8080
 
 ## Screenshots
-
+![2](https://github.com/rekildo/Employee-Management-System/assets/77988632/8ec37a1c-b848-4eec-a2d9-2ff52f8b3716)
+![1](https://github.com/rekildo/Employee-Management-System/assets/77988632/85b2636d-95c6-4851-acf9-4cd28fdd58cd)
 
 ## Security
 This application includes security measures to protect sensitive employee data. Users must authenticate and be authorized to access and modify records.
